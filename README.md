@@ -124,3 +124,5 @@ This project is inspired by [`htop`](https://htop.dev/).
 ## License
 
 MIT License
+
+[description](LICENSE)
