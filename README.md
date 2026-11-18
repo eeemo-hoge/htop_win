@@ -126,3 +126,4 @@ This project is inspired by [`htop`](https://htop.dev/).
 MIT License
 
 [description](LICENSE)
+license is "[LICENSE](LICENSE)"
